@@ -52,7 +52,7 @@ Senior developers typically earn much more than junior developers, but the exact
 ## Acknowledgments
 
 - Data Source: [Stack Overflow Developer Survey 2017](https://insights.stackoverflow.com/survey/2017)
-- Special thanks to Stack Overflow for providing the dataset.
+
 
 
 
