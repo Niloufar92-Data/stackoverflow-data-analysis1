@@ -45,7 +45,8 @@ This project follows the **CRISP-DM** process:
 ## Summary of Findings
 
 - The most commonly used programming languages are Python, JavaScript, and SQL.
-- Developers are most interested in working with Rust, Python, and TypeScript.
+- Developers in the USA or Switzerland earn significantly more than those in some other countries.
+Senior developers typically earn much more than junior developers, but the exact increase can vary by country.
 - There is a positive correlation between using certain languages (like Python and Rust) and higher job satisfaction.
 
 ## Acknowledgments
